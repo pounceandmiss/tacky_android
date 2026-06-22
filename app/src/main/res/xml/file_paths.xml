@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Roots the FileProvider may serve. The backend runs with HOME under
+     filesDir/tackyd-home (see TackydService), so its download cache - the only
+     thing we hand out - lives beneath this subtree of internal storage. -->
+<paths>
+    <files-path name="tackyd-home" path="tackyd-home/"/>
+</paths>

@@ -1,0 +1,14 @@
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+_build-docker/
+.kotlin/
+
+# The cross-built daemon binary, copied in from tacky_t (see README) - not committed.
+app/src/main/jniLibs/

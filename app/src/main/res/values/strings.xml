@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tacky</string>
+    <string name="channel_name">Tackyd backend</string>
+    <string name="notif_title">Tacky running</string>
+    <string name="notif_text">XMPP backend active</string>
+    <string name="ongoing_call">Ongoing call</string>
+    <string name="hang_up">Hang up</string>
+
+    <string name="notif_self">Me</string>
+    <string name="attachment">Attachment</string>
+    <string name="reply">Reply</string>
+    <string name="mark_read">Mark as read</string>
+    <string name="missed_call">Missed call</string>
+
+    <string name="chan_messages">Messages</string>
+    <string name="chan_messages_desc">New chat messages</string>
+    <string name="chan_incoming">Incoming calls</string>
+    <string name="chan_incoming_desc">Ringing calls</string>
+    <string name="chan_missed">Missed calls</string>
+    <string name="chan_missed_desc">Calls you didn\'t answer</string>
+</resources>
